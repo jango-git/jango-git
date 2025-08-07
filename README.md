@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hey, I’m Jango 👋
 
-<!--
-**jango-git/jango-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build small things that (hopefully) make other things easier.
 
-Here are some ideas to get you started:
+Mostly working with **Three.js**, **TypeScript**, for 3D on the web — especially for short interactive mobile experiences.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Here’s some stuff I tinker with:
+
+- 🐭 [animouse](https://github.com/jango-git/animouse) – animation state machine for Three.js
+- 🎯 [eventail](https://github.com/jango-git/eventail) – lightweight event dispatcher with priorities
+- 📱 [laymur](https://github.com/jango-git/laymur) – Lightweight Three.js UI toolkit mainly for mobile ads (early stage)
+- 🧩 [three-zoo](https://github.com/jango-git/three-zoo) – just some small 3D components I reuse
+
+Feel free to reach out if you want to talk graphics, animations, or just share ideas!
