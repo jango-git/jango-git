@@ -8,7 +8,7 @@ Mostly working with **Three.js**, **TypeScript**, for 3D on the web — especial
 
 - 🐭 **[animouse](https://github.com/jango-git/animouse)** – animation state machine for Three.js
 - 🎯 **[eventail](https://github.com/jango-git/eventail)** – lightweight event dispatcher with priorities
-- 📱 **[laymur](https://github.com/jango-git/laymur)** – Lightweight Three.js UI toolkit mainly for mobile ads (early stage)
+- 📱 **[laymur](https://github.com/jango-git/laymur)** – lightweight Three.js UI toolkit mainly for mobile ads (early stage)
 - 🧩 **[three-zoo](https://github.com/jango-git/three-zoo)** – just some small 3D components I reuse
 
 ---
