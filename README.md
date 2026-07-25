@@ -21,7 +21,3 @@ Stack today: **Three.js + TypeScript**. Roots: **C++ / OpenGL**.
 - 📱 **[laymur](https://github.com/jango-git/laymur)** - constraint-based UI for Three.js<br>
   Built for playables, no layout engine, no DOM.
 - 🧩 **[three-zoo](https://github.com/jango-git/three-zoo)** - small 3D components I keep reusing.
-
----
-
-Happy to talk graphics -> [LinkedIn](https://www.linkedin.com/in/vitaliy-platonov)
