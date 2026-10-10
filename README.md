@@ -1,23 +1,15 @@
-# Hey, I'm Jango 👋
+## Hi, I'm Jango
 
-I do technical art for real-time 3D on the web. The badge says "developer",
-but most of my day is pipelines, tooling, and helping art and code meet in the middle.
+Graphics programmer, 6+ years of real-time 3D under hard limits. Mostly mobile playable ads on Three.js - a few megabytes and 60 fps on old phones, plus libraries and other tools.
 
-My current territory is **mobile playable ads** - interactive 3D scenes that
-have to fit into ~5 MB. In practice that means:
+On the side I'm building **cubox** - a VR game on bare C++ / Vulkan / OpenXR.
+The repo is private, so video and screenshots are on [jango.pro](https://jango.pro/#portfolio/cubox).
 
-- 🏗️ maintaining the 3D project template my team builds playables on
-- 📦 owning the asset pipeline: compression, repacking, normalization, packaging
-- 🧯 being the *"can we even fit that in 5 MB?"* person
+**Stack**
 
-Stack today: **Three.js + TypeScript**. Roots: **C++ / OpenGL**.
+- graphics: GLSL, post-fx, GPU particles, IK, PBR, procedural geometry
+- web: Three.js, TypeScript, WebGL 1/2, WASM
+- native: C++, Vulkan, OpenXR, Jolt, Rust
+- also: Blender, Substance, Godot, Unity, Unreal
 
-## Tools I build
-
-- <img src="sparcoon_logo.svg" width="18" height="18" alt="" /> **[sparcoon-editor](https://github.com/jango-git/sparcoon-editor)** - node editor for Three.js VFX<br>
-  Graphs, timeline, live preview. Exports one self-contained TS module.
-- <img src="tesselot_logo.svg" width="18" height="18" alt="" /> **[tesselot](https://github.com/jango-git/tesselot)** - photos into low-poly art<br>
-  Draw guides, triangle edges follow them. Exports SVG / PDF / PNG.
-- 📱 **[laymur](https://github.com/jango-git/laymur)** - constraint-based UI for Three.js<br>
-  Built for playables, no layout engine, no DOM.
-- 🧩 **[three-zoo](https://github.com/jango-git/three-zoo)** - small 3D components I keep reusing.
+Open to work: remote, relocation or B2B contract. [jango.pro](https://jango.pro) · [Telegram](https://t.me/jango_clawed_paw)
